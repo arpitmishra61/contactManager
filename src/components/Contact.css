@@ -1,0 +1,8 @@
+.name {
+  text-shadow: 10px;
+  text-transform: capitalize;
+}
+
+.fa-angle-down {
+  cursor: pointer;
+}
